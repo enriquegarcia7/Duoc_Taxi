@@ -298,8 +298,8 @@ export class HomePage implements OnInit {
   };
 
   async duoc() {
-    let lat: number = -33.5988;
-    let lng: number = -70.70528;
+    let lat: number = -33.4330;
+    let lng: number = -70.6150;
     let googleMaps: any = await this.gmaps.loadGoogleMaps();
     this.googleMaps = googleMaps;
     const location = new googleMaps.LatLng(lat, lng);
