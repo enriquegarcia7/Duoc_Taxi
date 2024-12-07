@@ -22,7 +22,7 @@
     "@awesome-cordova-plugins/geolocation": "^6.2.0",
     "@capacitor/android": "^4.5.0",
     "@capacitor/app": "4.1.1",
-    "@capacitor/core": "4.5.0",
+    "@capacitor/core": "4.8.2",
     "@capacitor/geolocation": "^4.1.0",
     "@capacitor/google-maps": "^4.3.1",
     "@capacitor/haptics": "4.1.0",
